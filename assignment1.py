@@ -26,4 +26,4 @@ sum = number[0] + number[1] + number[2]
 print(f"\n the sum of three favourite number is :{sum}") 
 print(f"great job , {name} number are fascinating aren't they?")
 # STEP 6:
-print(f"\n Wow {sum} is prime number") g 
+print(f"\n Wow {sum} is prime number") 

@@ -1,4 +1,4 @@
-# QUESTION 1
+assignment# QUESTION 1
 message:str ="hello python people"
 print(message.title())
 # QUESTION 2 

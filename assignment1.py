@@ -14,7 +14,7 @@ for num in number:
         even_odd.append((num, "even"))
     else:
         even_odd.append((num,"odd")) 
-for evenodd in even_odd:           
+for evenodd in even_odd:            
  print(f"\n the number is {evenodd}")
  # STEP 4:
 print(f"\n Here are your number than square")
